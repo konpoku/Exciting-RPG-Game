@@ -1,0 +1,14 @@
+E:\Dev\RPG小游戏\RPG小游戏\bin\Debug\net6.0\RPG小游戏.exe
+E:\Dev\RPG小游戏\RPG小游戏\bin\Debug\net6.0\RPG小游戏.deps.json
+E:\Dev\RPG小游戏\RPG小游戏\bin\Debug\net6.0\RPG小游戏.runtimeconfig.json
+E:\Dev\RPG小游戏\RPG小游戏\bin\Debug\net6.0\RPG小游戏.dll
+E:\Dev\RPG小游戏\RPG小游戏\bin\Debug\net6.0\RPG小游戏.pdb
+E:\Dev\RPG小游戏\RPG小游戏\obj\Debug\net6.0\RPG小游戏.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\RPG小游戏\RPG小游戏\obj\Debug\net6.0\RPG小游戏.AssemblyInfoInputs.cache
+E:\Dev\RPG小游戏\RPG小游戏\obj\Debug\net6.0\RPG小游戏.AssemblyInfo.cs
+E:\Dev\RPG小游戏\RPG小游戏\obj\Debug\net6.0\RPG小游戏.csproj.CoreCompileInputs.cache
+E:\Dev\RPG小游戏\RPG小游戏\obj\Debug\net6.0\RPG小游戏.dll
+E:\Dev\RPG小游戏\RPG小游戏\obj\Debug\net6.0\refint\RPG小游戏.dll
+E:\Dev\RPG小游戏\RPG小游戏\obj\Debug\net6.0\RPG小游戏.pdb
+E:\Dev\RPG小游戏\RPG小游戏\obj\Debug\net6.0\RPG小游戏.genruntimeconfig.cache
+E:\Dev\RPG小游戏\RPG小游戏\obj\Debug\net6.0\ref\RPG小游戏.dll
